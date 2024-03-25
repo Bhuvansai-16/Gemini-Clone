@@ -19,7 +19,7 @@ const Main = () => {
 	return (
 		<div className="main">
 			<div className="nav">
-				<p>Gemini</p>
+				<p>Promco</p>
 				<img src={assets.user} alt="" />
 			</div>
 			<div className="main-container">
@@ -27,7 +27,7 @@ const Main = () => {
 					<>
 						<div className="greet">
 							<p>
-								<span>Hello , Dev </span>
+								<span>Hello ,Im Promco</span>
 							</p>
 							<p>How Can i Help You Today?</p>
 						</div>
